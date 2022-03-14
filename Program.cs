@@ -19,7 +19,7 @@ var steamCMDConPTY = new SteamCMDConPTY
 {
     Arguments = string.Join(' ', arguments),
     //WorkingDirectory = Path.Combine(Environment.CurrentDirectory, "steamcmd"),
-    FilterControlSequences = true,
+    //FilterControlSequences = true,
 };
 
 steamCMDConPTY.TitleReceived += (sender, data) => { };
