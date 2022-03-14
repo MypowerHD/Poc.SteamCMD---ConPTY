@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "tzCUk99s6LHGqRhw1x2k1qVmfoOALx/h3Lhr201z8+Z4f58dF/XhxNkgrJ8uRvg4q7/QJiC57pPu+959NEs15Q==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Timo\\RiderProjects\\BeastVision\\test\\Poc.SteamCmd\\Poc.SteamCmd.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Timo\\.nuget\\packages\\steamcmd.conpty\\1.2.0\\steamcmd.conpty.1.2.0.nupkg.sha512"
+  ],
+  "logs": []
+}

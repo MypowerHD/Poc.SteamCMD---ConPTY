@@ -1,0 +1,17 @@
+C:\Users\Timo\RiderProjects\BeastVision\test\Poc.SteamCmd\bin\Debug\net6.0\Poc.SteamCmd.exe
+C:\Users\Timo\RiderProjects\BeastVision\test\Poc.SteamCmd\bin\Debug\net6.0\Poc.SteamCmd.deps.json
+C:\Users\Timo\RiderProjects\BeastVision\test\Poc.SteamCmd\bin\Debug\net6.0\Poc.SteamCmd.runtimeconfig.json
+C:\Users\Timo\RiderProjects\BeastVision\test\Poc.SteamCmd\bin\Debug\net6.0\Poc.SteamCmd.dll
+C:\Users\Timo\RiderProjects\BeastVision\test\Poc.SteamCmd\bin\Debug\net6.0\Poc.SteamCmd.pdb
+C:\Users\Timo\RiderProjects\BeastVision\test\Poc.SteamCmd\bin\Debug\net6.0\SteamCMD.ConPTY.dll
+C:\Users\Timo\RiderProjects\BeastVision\test\Poc.SteamCmd\obj\Debug\net6.0\Poc.SteamCmd.csproj.AssemblyReference.cache
+C:\Users\Timo\RiderProjects\BeastVision\test\Poc.SteamCmd\obj\Debug\net6.0\Poc.SteamCmd.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Timo\RiderProjects\BeastVision\test\Poc.SteamCmd\obj\Debug\net6.0\Poc.SteamCmd.AssemblyInfoInputs.cache
+C:\Users\Timo\RiderProjects\BeastVision\test\Poc.SteamCmd\obj\Debug\net6.0\Poc.SteamCmd.AssemblyInfo.cs
+C:\Users\Timo\RiderProjects\BeastVision\test\Poc.SteamCmd\obj\Debug\net6.0\Poc.SteamCmd.csproj.CoreCompileInputs.cache
+C:\Users\Timo\RiderProjects\BeastVision\test\Poc.SteamCmd\obj\Debug\net6.0\Poc.SteamCmd.csproj.CopyComplete
+C:\Users\Timo\RiderProjects\BeastVision\test\Poc.SteamCmd\obj\Debug\net6.0\Poc.SteamCmd.dll
+C:\Users\Timo\RiderProjects\BeastVision\test\Poc.SteamCmd\obj\Debug\net6.0\refint\Poc.SteamCmd.dll
+C:\Users\Timo\RiderProjects\BeastVision\test\Poc.SteamCmd\obj\Debug\net6.0\Poc.SteamCmd.pdb
+C:\Users\Timo\RiderProjects\BeastVision\test\Poc.SteamCmd\obj\Debug\net6.0\Poc.SteamCmd.genruntimeconfig.cache
+C:\Users\Timo\RiderProjects\BeastVision\test\Poc.SteamCmd\obj\Debug\net6.0\ref\Poc.SteamCmd.dll

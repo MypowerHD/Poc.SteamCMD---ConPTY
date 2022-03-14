@@ -1,0 +1,112 @@
+{
+  "version": 3,
+  "targets": {
+    "net6.0": {
+      "SteamCMD.ConPTY/1.2.0": {
+        "type": "package",
+        "compile": {
+          "lib/netstandard2.0/SteamCMD.ConPTY.dll": {}
+        },
+        "runtime": {
+          "lib/netstandard2.0/SteamCMD.ConPTY.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "SteamCMD.ConPTY/1.2.0": {
+      "sha512": "9vKq0yTunZhM39QOG5YUuqk19sqZYUcQx0phLUikhEA4k0l0bHKGFHJ8hvgENpSZmLWox5KY1GCdIenysgFE7w==",
+      "type": "package",
+      "path": "steamcmd.conpty/1.2.0",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "LICENSE",
+        "icon.png",
+        "lib/netstandard2.0/SteamCMD.ConPTY.dll",
+        "lib/netstandard2.0/SteamCMD.ConPTY.xml",
+        "steamcmd.conpty.1.2.0.nupkg.sha512",
+        "steamcmd.conpty.nuspec"
+      ]
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net6.0": [
+      "SteamCMD.ConPTY >= 1.2.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\Timo\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {},
+    "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\": {},
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "C:\\Users\\Timo\\RiderProjects\\BeastVision\\test\\Poc.SteamCmd\\Poc.SteamCmd.csproj",
+      "projectName": "Poc.SteamCmd",
+      "projectPath": "C:\\Users\\Timo\\RiderProjects\\BeastVision\\test\\Poc.SteamCmd\\Poc.SteamCmd.csproj",
+      "packagesPath": "C:\\Users\\Timo\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Timo\\RiderProjects\\BeastVision\\test\\Poc.SteamCmd\\obj\\",
+      "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
+        "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\",
+        "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+      ],
+      "configFilePaths": [
+        "C:\\Users\\Timo\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "net6.0"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "C:\\Users\\Timo\\RiderProjects\\BeastVision\\lib": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "projectReferences": {}
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "net6.0": {
+        "targetAlias": "net6.0",
+        "dependencies": {
+          "SteamCMD.ConPTY": {
+            "target": "Package",
+            "version": "[1.2.0, )"
+          }
+        },
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.201\\RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}
